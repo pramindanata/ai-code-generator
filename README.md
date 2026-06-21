@@ -10,6 +10,7 @@ An AI-powered **web application generator** built with **Gradio** and **DeepSeek
 ## Todo
 
 - [ ] Stream the AI's responses when creating the web project in real-time instead of waiting for the full response. User need to know the progress of the project creation.
+- [ ] Create new project IDs in a session. Current implementation only create and use a single project ID in a session, which is not ideal for multiple requests.
 
 ## Setup
 
